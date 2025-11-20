@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sriram Katrapally</h1>
 <h3 align="center">Hello there! 👋 I'm Sriram Katrapally, a passionate software engineering enthusiast eager to delve deeper into the world of Software Development. As I embark on this journey towards a Software Engineering role, I'm excited to share my projects, experiences, and learnings with you through this GitHub repository.</h3>
 
-- 🌱 I’m currently learning **0 - 100 Complete cohort by Harkirat Singh**
-
-- 👨‍💻 All of my projects are available at [https://sriramkatrapally.vercel.app](https://sriramkatrapally.vercel.app)
+- 🌱 I’m currently working on **OpenMinded/PipelineDP**
 
 - 📫 How to reach me **sriramkatrapally@gmail.com**
 
